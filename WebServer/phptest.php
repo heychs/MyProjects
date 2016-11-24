@@ -7,6 +7,7 @@
  */
 
 echo "야호 PHP도 잘된다!<br/>";
+echo "VCS Test";
 
 ?>
 
