@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -15,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     EditText edtName, edtNumMembers, edtNameResult, edtNumMemberResult;
     Button btnInit, btnInsert, btnSelect;
     SQLiteDatabase sqlDB;
+    TextView textView1;
+    String string = "\uc560\ud638\ubc153\uac1c";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,6 +32,9 @@ public class MainActivity extends AppCompatActivity {
         btnInit = (Button) findViewById(R.id.btnInit);
         btnInsert = (Button) findViewById(R.id.btnInsert);
         btnSelect = (Button) findViewById(R.id.btnSelect);
+        textView1 = (TextView) findViewById(R.id.textview1);
+
+        textView1.setText(string);
 
         myHelper  = new myDBHelper(this);
         btnInit.setOnClickListener(new View.OnClickListener(){
