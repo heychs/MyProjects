@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fileexplorer.xml",
+        "source": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\src\\main\\res\\layout\\activity_fileexplorer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_view.xml",
+        "source": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\src\\main\\res\\layout\\file_view.xml"
+    }
+]

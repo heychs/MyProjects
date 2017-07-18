@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_icon.png",
+        "source": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\src\\main\\res\\drawable\\file_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\directory_up.png",
+        "source": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\src\\main\\res\\drawable\\directory_up.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\directory_icon.png",
+        "source": "D:\\Projects\\Android\\Examples\\FileExplorer\\app\\src\\main\\res\\drawable\\directory_icon.png"
+    }
+]
